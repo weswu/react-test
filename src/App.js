@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Clock from './clock'
+import Toggle from './toggle'
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
         >
           Learn React
         </a>
+        <Clock/>
+        <Toggle/>
       </header>
     </div>
   );

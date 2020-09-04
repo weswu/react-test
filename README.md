@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+##### 安装react
+npm install -g create-react-app
+create-react-app react-test
+
+
 ## Available Scripts
 
 In the project directory, you can run:
